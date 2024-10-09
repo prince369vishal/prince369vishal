@@ -1,12 +1,12 @@
 Hi there, I'm Vishal 👋
-I'm a passionate developer with a strong foundation in web and mobile development. I love building projects and sharing my knowledge with others.
+I'm a passionate developer with a strong foundation in web and mobile development. I love building projects and sharing my knowledge with others.  
 
-🚀 Skills
-MERN Stack (MongoDB, Express, React, Node.js)
-React Native (for mobile app development)
-JavaScript, HTML, CSS
-Blockchain & Web3
-DevOps (deployment, CI/CD)
+  🚀 Skills
+  MERN Stack (MongoDB, Express, React, Node.js)
+  React Native (for mobile app development)
+  JavaScript, HTML, CSS
+  Blockchain & Web3
+  (deployment, CI/CD)
 
 🎥 YouTube Channel : https://www.youtube.com/@CodingIQ
 I run a YouTube channel where I teach programming. I focus on topics like:
