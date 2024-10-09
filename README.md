@@ -15,7 +15,8 @@ MERN Stack (MongoDB, Express, React, Node.js)
   (deployment, CI/CD)  
   
 
-🎥 YouTube Channel : https://www.youtube.com/@CodingIQ
+🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
+
 I run a YouTube channel where I teach programming. I focus on topics like:
 Web Development (HTML, CSS, JavaScript)
 Full-Stack Development (MERN Stack)
