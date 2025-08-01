@@ -7,9 +7,7 @@ I'm a passionate developer with a strong foundation in web and mobile developmen
 MERN Stack (MongoDB, Express, React, Node.js)  
 
   React Native (for mobile app development)  
-  
-  JavaScript, HTML, CSS  
-  
+    
   Blockchain & Web3  
   
   (deployment, CI/CD)  
