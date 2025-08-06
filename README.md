@@ -1,5 +1,5 @@
 Hi there, I'm Vishal 👋
-I'm a passionate developer with a strong foundation in web and mobile development. I love building projects and sharing my knowledge with others.  
+Building and scaling projects and sharing my knowledge with others.  
 
 🚀 Skills  
 
