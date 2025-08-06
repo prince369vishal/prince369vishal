@@ -13,7 +13,6 @@ MERN Stack (MongoDB, Express, React, Node.js)
   (deployment, CI/CD)  
   
 
-🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
 
 I run a YouTube channel where I teach programming. I focus on topics like:
 Web Development (HTML, CSS, JavaScript)
@@ -22,8 +21,8 @@ Mobile App Development (React Native)
 Node.js (Server-side development)
 Check out my latest tutorials and join me as we learn together! 📚
 
-♟️ Hobbies
-When I'm not coding, you can find me sharpening my chess skills. I enjoy the strategy and problem-solving aspects that chess brings to the table, much like coding!
+♟️ Hobbies :
+When I'm not coding, you can find me sharpening my chess skills. I enjoy the strategy and problem-solving aspects that chess brings to the table.
 
 🌱 I’m currently learning
 Advanced React Native features
@@ -32,3 +31,5 @@ Enhancing my DevOps skills
 
 💬 Let's Connect!
 Twitter: https://x.com/vishaldevelopr
+🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
+
