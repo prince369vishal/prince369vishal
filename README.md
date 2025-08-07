@@ -2,19 +2,15 @@ Hi there, I'm Vishal 👋
 Building and scaling projects and sharing my knowledge with others.  
 
 🚀 Skills  
-
-  
 MERN Stack (MongoDB, Express, React, Node.js)  
-
-  React Native (for mobile app development)  
-    
-  Blockchain & Web3  
-  
-  (deployment, CI/CD)  
+React Native (for mobile app development)  
+Blockchain & Web3  
+(deployment, CI/CD)  
   
 
+I run a YouTube channel where I teach programming. 🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
 
-I run a YouTube channel where I teach programming. I focus on topics like:
+I focus on topics like:
 Web Development (HTML, CSS, JavaScript)
 Full-Stack Development (MERN Stack)
 Mobile App Development (React Native)
@@ -31,5 +27,4 @@ Enhancing my DevOps skills
 
 💬 Let's Connect!
 Twitter: https://x.com/vishaldevelopr
-🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
 
