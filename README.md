@@ -8,7 +8,7 @@ Blockchain & Web3
 (deployment, CI/CD)  
   
 
-I run a YouTube channel where I teach programming. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
+I run a YouTube channel where I teach Web Development. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
 
 I focus on topics like:
 
