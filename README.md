@@ -11,7 +11,9 @@ Blockchain & Web3
 I run a YouTube channel where I teach programming. 🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
 
 I focus on topics like:
+
 Web Development (HTML, CSS, JavaScript, ReactJs, ExpressJs, NodeJs)
+
 Mobile App Development (React Native)
 
 ♟️ Hobbies :
