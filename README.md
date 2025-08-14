@@ -10,11 +10,6 @@ Blockchain & Web3
 
 I run a YouTube channel where I teach Web Development. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
 
-I focus on topics like:
-
-Web Development (HTML, CSS, JavaScript, ReactJs, ExpressJs, NodeJs)
-
-Mobile App Development (React Native)
 
 ♟️ Hobbies :
 When I'm not coding, you can find me sharpening my chess skills. I enjoy the strategy and problem-solving aspects that chess brings to the table.
