@@ -11,8 +11,7 @@ Blockchain & Web3
 I run a YouTube channel where I teach programming. 🎥 YouTube Channel : https://www.youtube.com/@CodingIQ  
 
 I focus on topics like:
-Web Development (HTML, CSS, JavaScript)
-Full-Stack Development (MERN Stack)
+Web Development (HTML, CSS, JavaScript, ReactJs, ExpressJs, NodeJs)
 Mobile App Development (React Native)
 Node.js (Server-side development)
 Check out my latest tutorials and join me as we learn together! 📚
