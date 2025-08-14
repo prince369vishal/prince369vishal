@@ -13,8 +13,6 @@ I run a YouTube channel where I teach programming. 🎥 YouTube Channel : https:
 I focus on topics like:
 Web Development (HTML, CSS, JavaScript, ReactJs, ExpressJs, NodeJs)
 Mobile App Development (React Native)
-Node.js (Server-side development)
-Check out my latest tutorials and join me as we learn together! 📚
 
 ♟️ Hobbies :
 When I'm not coding, you can find me sharpening my chess skills. I enjoy the strategy and problem-solving aspects that chess brings to the table.
