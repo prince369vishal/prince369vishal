@@ -1,14 +1,13 @@
 Hi there, I'm Vishal 👋
-Building and scaling projects and sharing my knowledge with others.  
+I run a YouTube channel where I teach Web Development. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
 
 🚀 Skills  
+Artificial Intelligence & Machine Learning
+Java Full Stack
 MERN Stack (MongoDB, Express, React, Node.js)  
 React Native (for mobile app development)  
 Blockchain & Web3  
 (deployment, CI/CD)  
-  
-
-I run a YouTube channel where I teach Web Development. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
 
 
 ♟️ Hobbies :
