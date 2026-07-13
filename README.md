@@ -1,5 +1,6 @@
 Hi there, I'm Vishal 👋
-I run a YouTube channel where I teach Web Development, AI/ML, Backend Engineering. 🎥  Channel Link : https://www.youtube.com/@CodingIQ  
+I run a YouTube channel where I teach Web Development, AI/ML, Backend Engineering. 
+🎥  Channel Link : https://www.youtube.com/@CodingIQ  
 
 🚀 Skills  
 Artificial Intelligence & Machine Learning
