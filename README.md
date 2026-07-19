@@ -1,24 +1,113 @@
-Hi there, I'm Vishal 👋
-I run a YouTube channel where I teach Web Development, AI/ML, Backend Engineering. 
-🎥  Channel Link : https://www.youtube.com/@CodingIQ  
+🎥 Youtube Channel Link : https://www.youtube.com/@CodingIQ  
+# OfficeIQ
 
-🚀 Skills  
-Artificial Intelligence & Machine Learning
-Java Full Stack
-MERN Stack (MongoDB, Express, React, Node.js)  
-React Native (for mobile app development)  
-Blockchain & Web3  
-(deployment, CI/CD)  
+> Learn software engineering by experiencing how real companies build software.
 
+OfficeIQ is an open source organization that creates production-style repositories designed to simulate the day-to-day work of modern software engineering teams. Instead of solving isolated coding problems, contributors work in realistic company environments with established architectures, engineering practices, and collaborative workflows.
 
-♟️ Hobbies :
-When I'm not coding, you can find me sharpening my chess skills. I enjoy the strategy and problem-solving aspects that chess brings to the table.
+## Why OfficeIQ?
 
-🌱 I’m currently learning
-Advanced React Native features
-Exploring blockchain technologies further
-Enhancing my DevOps skills
+Most developers learn through tutorials and personal projects.
 
-💬 Let's Connect!
-Twitter: https://x.com/vishaldevelopr
+Companies hire engineers who can:
+- Understand large codebases
+- Work across multiple repositories
+- Collaborate with teammates
+- Review pull requests
+- Follow Agile workflows
+- Write production-quality code
+- Ship features without breaking existing systems
 
+OfficeIQ bridges that gap.
+
+## What You'll Experience
+
+- Realistic multi-repository architectures
+- Different technology stacks
+- Sprint-based development
+- Git workflows
+- Pull Request reviews
+- Issue tracking
+- CI/CD pipelines
+- Documentation
+- Team collaboration
+- Production coding standards
+- Code ownership
+- Bug fixing
+- Feature development
+- Software architecture
+
+## Technology Stacks
+
+Our repositories cover a wide range of modern technologies, including:
+
+- Java
+- Spring Boot
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Python
+- AI & Machine Learning
+- DevOps
+- Cloud
+- Mobile Development
+- Data Engineering
+- Microservices
+
+...and many more.
+
+## Repository Structure
+
+Each repository is designed to feel like an actual company project.
+
+You'll find:
+
+- Product requirements
+- Engineering documentation
+- Existing codebases
+- Realistic issues
+- Feature requests
+- Bug reports
+- Pull request templates
+- CI/CD configurations
+- Team workflows
+
+## Learn Like an Engineer
+
+OfficeIQ focuses on the skills that matter in professional software development:
+
+- Reading existing code
+- Understanding system architecture
+- Making incremental changes
+- Writing maintainable code
+- Collaborating through GitHub
+- Receiving and giving code reviews
+- Working with engineering documentation
+- Delivering production-ready features
+
+## Who Is This For?
+
+- Students
+- Self-taught developers
+- Bootcamp graduates
+- Open source contributors
+- Engineers preparing for interviews
+- Developers transitioning into industry
+
+## Our Mission
+
+To make real-world software engineering experience accessible to everyone through open source.
+
+## Contributing
+
+We welcome contributors of all experience levels.
+
+Whether you're fixing your first bug or designing distributed systems, there's a place for you at OfficeIQ.
+
+Explore the repositories, pick an issue, and start building.
+
+---
+
+**Learn Like You're Already Hired.**
